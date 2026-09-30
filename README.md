@@ -1,3 +1,6 @@
+[whatabot.json](https://github.com/user-attachments/files/32848429/whatabot.json)
+[whatabot_faq_setup.json](https://github.com/user-attachments/files/32848428/whatabot_faq_setup.json)
+<img width="1360" height="960" alt="03_WhatABot_diagram" src="https://github.com/user-attachments/assets/f57c28ab-5fd1-4f6d-854a-a3063d707431" />
 # WhatABot — AI-Powered WhatsApp Support & Booking Automation
 
 A multi-agent WhatsApp assistant for small businesses. It answers customer questions from the business's own FAQ, books appointments on Google Calendar, and hands anything it can't handle to a human, all inside WhatsApp.
